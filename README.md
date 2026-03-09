@@ -1,4 +1,4 @@
-# FootballTipping in Fortran
+# Football Tipping in Fortran
 👀 Football tipping program in Fortran
 
 ✔ This program attempts to predict the outcome of future matches based on team performance in previous matches for the year.
